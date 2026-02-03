@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\brunorchaves\\Documents\\GitHub\\MineGuard\\backend\\MineGuard.Api\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\brunorchaves\\Documents\\GitHub\\MineGuard\\backend\\MineGuard.Api\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\brunorchaves\\Documents\\GitHub\\MineGuard\\backend\\MineGuard.Api\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MineGuard.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MineGuard.Api.props",
+      "PackagePath": "build\\MineGuard.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MineGuard.Api.props",
+      "PackagePath": "buildMultiTargeting\\MineGuard.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MineGuard.Api.props",
+      "PackagePath": "buildTransitive\\MineGuard.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

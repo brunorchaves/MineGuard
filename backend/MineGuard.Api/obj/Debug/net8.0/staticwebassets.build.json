@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "Kz9RLAwbttr1UI6ytAv7IV4JVoVa7X8FOYF8qewbxFk=",
+  "Source": "MineGuard.Api",
+  "BasePath": "_content/MineGuard.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MineGuard.Api\\wwwroot",
+      "Source": "MineGuard.Api",
+      "ContentRoot": "C:\\Users\\brunorchaves\\Documents\\GitHub\\MineGuard\\backend\\MineGuard.Api\\wwwroot\\",
+      "BasePath": "_content/MineGuard.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\brunorchaves\\Documents\\GitHub\\MineGuard\\backend\\MineGuard.Api\\wwwroot\\css\\style.css",
+      "SourceId": "MineGuard.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brunorchaves\\Documents\\GitHub\\MineGuard\\backend\\MineGuard.Api\\wwwroot\\",
+      "BasePath": "_content/MineGuard.Api",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\brunorchaves\\Documents\\GitHub\\MineGuard\\backend\\MineGuard.Api\\wwwroot\\index.html",
+      "SourceId": "MineGuard.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brunorchaves\\Documents\\GitHub\\MineGuard\\backend\\MineGuard.Api\\wwwroot\\",
+      "BasePath": "_content/MineGuard.Api",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\brunorchaves\\Documents\\GitHub\\MineGuard\\backend\\MineGuard.Api\\wwwroot\\js\\app.js",
+      "SourceId": "MineGuard.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brunorchaves\\Documents\\GitHub\\MineGuard\\backend\\MineGuard.Api\\wwwroot\\",
+      "BasePath": "_content/MineGuard.Api",
+      "RelativePath": "js/app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\app.js"
+    }
+  ]
+}
